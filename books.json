@@ -1,0 +1,14 @@
+[
+    {
+      "title": "Book 1",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=14Y3uBs41xp8KurkSNnwHgettm6V9LEVS"
+    },
+    {
+      "title": "Book 2",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1k6U-Pf1qRAd3DaSVXxb3vuBcerxK7QUT"
+    },
+    {
+      "title": "Demo Book",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=DEMO_ID"
+    }
+  ]
